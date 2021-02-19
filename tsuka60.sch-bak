@@ -3465,7 +3465,7 @@ F 1 "WS2812B-Worldsemi-unnamed-rescue" H 25700 10834 50  0000 C CNN
 F 2 "LEDs:LED_WS2812B-PLCC4" H 25700 10400 50  0001 C CNN
 F 3 "http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf" H 25700 10650 50  0001 C CNN
 	1    25700 10700
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L trifecta-rescue:WS2812B-Worldsemi-unnamed-rescue LED?
@@ -3476,7 +3476,7 @@ F 1 "WS2812B-Worldsemi-unnamed-rescue" H 25700 11334 50  0000 C CNN
 F 2 "LEDs:LED_WS2812B-PLCC4" H 25700 10900 50  0001 C CNN
 F 3 "http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf" H 25700 11150 50  0001 C CNN
 	1    25700 11200
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L trifecta-rescue:WS2812B-Worldsemi-unnamed-rescue LED?
@@ -3487,7 +3487,7 @@ F 1 "WS2812B-Worldsemi-unnamed-rescue" H 25700 11834 50  0000 C CNN
 F 2 "LEDs:LED_WS2812B-PLCC4" H 25700 11400 50  0001 C CNN
 F 3 "http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf" H 25700 11650 50  0001 C CNN
 	1    25700 11700
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L trifecta-rescue:WS2812B-Worldsemi-unnamed-rescue LED?
@@ -3498,29 +3498,29 @@ F 1 "WS2812B-Worldsemi-unnamed-rescue" H 25700 12334 50  0000 C CNN
 F 2 "LEDs:LED_WS2812B-PLCC4" H 25700 11900 50  0001 C CNN
 F 3 "http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf" H 25700 12150 50  0001 C CNN
 	1    25700 12200
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L trifecta-rescue:WS2812B-Worldsemi-unnamed-rescue LED?
 U 1 1 60399A2A
-P 24450 10600
-F 0 "LED?" H 24450 10825 50  0000 C CNN
-F 1 "WS2812B-Worldsemi-unnamed-rescue" H 24450 10734 50  0000 C CNN
-F 2 "LEDs:LED_WS2812B-PLCC4" H 24450 10300 50  0001 C CNN
-F 3 "http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf" H 24450 10550 50  0001 C CNN
-	1    24450 10600
-	-1   0    0    -1  
+P 24450 10700
+F 0 "LED?" H 24450 10925 50  0000 C CNN
+F 1 "WS2812B-Worldsemi-unnamed-rescue" H 24450 10834 50  0000 C CNN
+F 2 "LEDs:LED_WS2812B-PLCC4" H 24450 10400 50  0001 C CNN
+F 3 "http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf" H 24450 10650 50  0001 C CNN
+	1    24450 10700
+	1    0    0    -1  
 $EndComp
 $Comp
 L trifecta-rescue:WS2812B-Worldsemi-unnamed-rescue LED?
 U 1 1 6039AC3E
-P 24450 11100
-F 0 "LED?" H 24450 11325 50  0000 C CNN
-F 1 "WS2812B-Worldsemi-unnamed-rescue" H 24450 11234 50  0000 C CNN
-F 2 "LEDs:LED_WS2812B-PLCC4" H 24450 10800 50  0001 C CNN
-F 3 "http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf" H 24450 11050 50  0001 C CNN
-	1    24450 11100
-	-1   0    0    -1  
+P 24450 11200
+F 0 "LED?" H 24450 11425 50  0000 C CNN
+F 1 "WS2812B-Worldsemi-unnamed-rescue" H 24450 11334 50  0000 C CNN
+F 2 "LEDs:LED_WS2812B-PLCC4" H 24450 10900 50  0001 C CNN
+F 3 "http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf" H 24450 11150 50  0001 C CNN
+	1    24450 11200
+	1    0    0    -1  
 $EndComp
 $Comp
 L trifecta-rescue:WS2812B-Worldsemi-unnamed-rescue LED?
@@ -3894,7 +3894,7 @@ F 1 "WS2812B-Worldsemi-unnamed-rescue" H 25700 12809 50  0000 C CNN
 F 2 "LEDs:LED_WS2812B-PLCC4" H 25700 12375 50  0001 C CNN
 F 3 "http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf" H 25700 12625 50  0001 C CNN
 	1    25700 12675
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L trifecta-rescue:WS2812B-Worldsemi-unnamed-rescue LED?

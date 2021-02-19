@@ -1,4 +1,6 @@
 (sym_lib_table
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name tsuka60-rescue)(type Legacy)(uri ${KIPRJMOD}/tsuka60-rescue.lib)(options "")(descr ""))
+  (lib (name trifecta-rescue)(type Legacy)(uri "C:/Users/Zeus/Documents/GitHub/Trifecta/Hardware/Rev0.6rgbhotswap 12Deg/trifecta-rescue.lib")(options "")(descr ""))
 )
